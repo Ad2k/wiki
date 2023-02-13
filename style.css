@@ -1,6 +1,6 @@
 * {
     text-align: center;
-    font-family: Apple Chancery, cursive;
+    font-family: URW Chancery L, cursive;
 }
 body {
     background-color: rgb(0, 0, 0);
@@ -18,7 +18,7 @@ body {
     --border-size: 3px;
     --border-angle: 0turn;
     width: 60vmin;
-    height: 150vmin;
+    height: 190vmin;
     background-image: conic-gradient(
         from var(--border-angle),
         #213,
